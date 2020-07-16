@@ -8,3 +8,6 @@ oh yeah! I know,
 https://open.lbry.com/@JOELwindows7 
 
 hmstdve
+
+# edit from here
+becausse or so because the author, the code programmer here pushed heere.
