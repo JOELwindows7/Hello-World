@@ -11,3 +11,6 @@ hmstdve
 
 # edit from here
 becausse or so because the author, the code programmer here pushed heere.
+
+# Nexus edit
+lol Loki Disney+
